@@ -1,16 +1,33 @@
 ### Hi there 👋
+<hr>
 
-<!--
-**HarryKing87/HarryKing87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harry and I'm a Computer Science student. I have worked with a variety of languages and projects and I try to create what's for me the perfect project and user interface design. I'm from Greece currently living in Thessaloniki and working on some personal projects.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+<hr>
+
+![](https://img.shields.io/badge/<Web>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/<JS>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<JS>-<Vue>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/<Web>-<HTML5>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+</br>
+![](https://img.shields.io/badge/<Web>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/<Web>-<CSS3>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<Web>-<SCSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brown)
+![](https://img.shields.io/badge/<Web>-<PHP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/<Software>-<CSharp>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
+
+## 📈 GitHub Stats
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryKing87&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HarryKing87&show_icons=true&theme=radical)
+</br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarryKing87&repo=Employee-Form&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarryKing87&repo=Portfolio-Page&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
