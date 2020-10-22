@@ -5,6 +5,8 @@ I'm Harry and I'm a Computer Science student. I have worked with a variety of la
 
 <hr>
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H62HMGS)
+
 ## 🔧 Technologies & Tools
 
 <hr>
