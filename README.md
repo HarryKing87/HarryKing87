@@ -29,7 +29,6 @@ I'm Harry and I'm a Computer Science student. I have worked with a variety of la
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryKing87&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HarryKing87&show_icons=true&theme=radical)
 </br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarryKing87&repo=Employee-Form&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarryKing87&repo=Portfolio-Page&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
