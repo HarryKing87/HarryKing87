@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm Harry and I'm a Computer Science student. <br>I have worked with a variety of languages and projects and <br>I try to create what's for me the perfect project and user <br>interface design. I'm from Greece currently living in Thessaloniki <br>and working on some personal projects.
+Hi there 👋<br><br>I'm Harry and I'm a Web Developer. <br>I have worked with a variety of languages and projects and <br>I try to create what's for me the perfect project and user <br>interface design. I'm from Greece currently living in Thessaloniki <br>and working on some personal projects.
 
 
 ## 🌐 Socials:
